@@ -1,0 +1,47 @@
+
+item {
+  id: 1
+  name: 'Poste'
+
+}
+item {
+  id: 2
+  name: 'Valla'
+
+}
+
+item {
+  id: 3
+  name: 'Cartel'
+
+}
+
+item {
+  id: 4
+  name: 'Arbol'
+
+}
+
+item {
+  id: 5
+  name: 'Vehiculo'
+
+
+}
+item {
+  id: 6
+  name: 'Semaforo'
+
+}
+
+item {
+  id: 7
+  name: 'Persona'
+
+}
+
+item {
+  id: 8
+  name: 'Muro'
+
+}
