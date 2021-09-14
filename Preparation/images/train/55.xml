@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes2</folder>
+	<filename>55.JPG</filename>
+	<path>C:\Users\Diego\Desktop\MII\TFM\Preparation\imagenes2\55.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1936</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehiculo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>335</ymin>
+			<xmax>2109</xmax>
+			<ymax>1450</ymax>
+		</bndbox>
+	</object>
+</annotation>

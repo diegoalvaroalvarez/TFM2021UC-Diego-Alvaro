@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>22.jpg</filename>
+	<path>C:\Users\Diego\Desktop\MII\TFM\Preparation\images\train\22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Muro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>67</ymin>
+			<xmax>749</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>
