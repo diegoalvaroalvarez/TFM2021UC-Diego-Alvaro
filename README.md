@@ -1,6 +1,7 @@
 # TFM2021UC-Diego-Alvaro
 Archivos utilizados para mi Proyecto Fin de Máster de Ingeniería Industrial en la Universidad de Cantabria.
 
+En la carpeta "TFM_DIEGOALVARO" se encuentra el código principal.
 
 TÍTULO: Planificación de trayectorias para el control autónomo de un cuadricóptero utilizando técnicas de visión artificial y aprendizaje profundo
 
